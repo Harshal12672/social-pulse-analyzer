@@ -87,4 +87,4 @@ Frontend Dashboard: Streamlit
 ✅ Automated pipeline from raw data → cleaned data → database → analysis
 ✅ REST API for programmatic data access
 ✅ Interactive Streamlit dashboard for visualization
-✅ Cross-platform deployment via Docker
+
