@@ -81,7 +81,6 @@ Backend API: FastAPI + Uvicorn
 
 Frontend Dashboard: Streamlit
 
-Deployment: Docker
 
 🚀 Key Features
 
